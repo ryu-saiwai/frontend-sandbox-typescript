@@ -19,7 +19,7 @@ TypeScriptの練習用テンプレートのセットです。
 
 ```$xslt
 
-git clone 
+git clone https://github.com/ryu-saiwai/frontend-sandbox-typescript.git
 
 ```
 
